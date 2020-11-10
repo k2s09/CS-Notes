@@ -7,7 +7,7 @@ Divit you can do strings and maybe the theory questions you wanted to add.
 Udaj pls do the second chapter.
 
 How to do:
-1) Go in your branch (I have already created it)
+1) Go in your branch (I have already created it). Don't make changes in main or in other's branches.
 2) The same files in main will be there
 3) You can download them, edit it, add your notes. Don't worry, the changes will not be reflected in main.
 4) Then upload the edited file in your branch with a different name like file 2.0
