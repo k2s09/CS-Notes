@@ -2,9 +2,6 @@
 Open source notes for ICSE class 10 students appearing for board exams in 2021. Detailed theory notes with contribution from industry leading students adding their knowledge to the ultimate notes repository to study from. Enjoy.
 
 Krishak you pls do the first chapter.
-Riti you can do the array chapter.
-Divit you can do strings and maybe the theory questions you wanted to add.
-Udaj pls do the second chapter.
 
 How to do:
 1) Go in your branch (I have already created it). Don't make changes in main or in other's branches.
