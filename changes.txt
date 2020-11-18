@@ -1,5 +1,0 @@
-Here you can write what all changes you made, what all you added, subtracted in your branch. You can also document your progress.
-
-1) Kavin
-Changed the def of 'this' keyword and made the tables a bit more organized.
-Added the wrapper class methods completing all my chapters.
