@@ -13,8 +13,7 @@ To best understand Java, do the following:
 
 ## Other Resources
 
-I have made my other Code repositories public. You can browser all my code and CS Project. Do whatever you want, I don't care.
+I have made my other Code repositories public. 
 
 https://github.com/k2s09/javaC0de  
 https://github.com/k2s09/senior-project  
-https://goalkicker.com/JavaBook/  
